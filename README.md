@@ -1,5 +1,7 @@
 A collection of command line games written in python using curses.
 
+More games to come as they are written. Feel free to contribute.
+
 ### Current games:
 
 - vim-snake
